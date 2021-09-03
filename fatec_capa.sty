@@ -1,0 +1,35 @@
+% ---
+% INICIO DAS CUSTOMIZACOES PARA A UNIVERSIDADE XXX
+% ---
+
+% alterando a capa
+\renewcommand{\imprimircapa}{%
+  \begin{capa}%
+    \center
+    \begin{figure}[!htpb]
+		\centering
+		\includegraphics[height=70px]{logo}\\
+        {\noindent\rule{14cm}{0.4pt}}\\
+		\textbf{\imprimirinstituicao}
+	\end{figure}
+    \vspace*{2cm}
+    
+    {\ABNTEXchapterfont\large\imprimirautor}
+
+    \vfill
+    \begin{center}
+    \ABNTEXchapterfont\bfseries\LARGE\imprimirtitulo
+    \end{center}
+    \vfill
+    
+    \large\imprimirlocal
+
+    \large\imprimirdata
+    
+    \vspace*{1cm}
+  \end{capa}
+}
+
+% ---
+% FIM DAS CUSTOMIZACOES PARA A UNIVERSIDADE XXX
+% ---
