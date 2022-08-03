@@ -10,7 +10,7 @@
 > Take a look at the [PIBITI Relatório Final - Planejamento e desenvolvimento de um Serious Games para educação básica.pdf](https://github.com/pferreirafabricio/super-kids-article/blob/main/PIBITI%20Relat%C3%B3rio%20Final%20-%20Planejamento%20e%20desenvolvimento%20de%20um%20Serious%20Games%20para%20educa%C3%A7%C3%A3o%20b%C3%A1sica.pdf) file
 
 ## :open_book: About 
-Mini Kids has as its main objective the education of children inserted in the early childhood education stage and in elementary school I, using as a tool for this an educational virtual game, based on official guiding documents
+Super Kids has as its main objective the education of children inserted in the early childhood education stage and in elementary school I, using as a tool for this an educational virtual game, based on official guiding documents.
 
 ## :bricks: This project was built with: 
 - [Overleaf](https://www.overleaf.com/)
